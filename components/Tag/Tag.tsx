@@ -1,6 +1,5 @@
 import styles from './Tag.module.css';
 import {TagProps} from "./Tag.props";
-// @ts-ignore
 import cn from 'classnames';
 import React from "react";
 

@@ -1,7 +1,6 @@
 import styles from './Footer.module.css';
 import {FooterProps} from "./Footer.props";
 import { format } from 'date-fns';
-// @ts-ignore
 import cn from 'classnames';
 import React from "react";
 

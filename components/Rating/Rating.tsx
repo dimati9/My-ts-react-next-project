@@ -1,6 +1,5 @@
 import styles from './Rating.module.css';
 import {RatingProps} from "./Rating.props";
-// @ts-ignore
 import cn from 'classnames';
 import {useEffect, useState, KeyboardEvent} from "react";
 import StarIcon from './Star.svg';

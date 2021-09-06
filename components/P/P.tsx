@@ -1,6 +1,5 @@
 import styles from './P.module.css';
 import {PProps} from "./P.props";
-// @ts-ignore
 import cn from 'classnames';
 import React from "react";
 
